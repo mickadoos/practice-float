@@ -1,0 +1,39 @@
+div {
+    border: 1px solid black;
+}
+
+header {
+    display: block;
+    border: 2px solid red;
+    text-align: center;
+    height: 500px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+header div {
+    display: inline-block;
+}
+.container1 {
+    background-color: #0e9292;
+    width: 300px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+.top-left {
+    float: left;
+    margin: 20px;
+}
+
+.titles {
+    /* float: left; */
+    margin: 20px 0;
+    width: auto;
+}
+
+.top-right {
+    float: right;
+    margin: 20px;
+
+}
