@@ -6,9 +6,9 @@ header {
     display: block;
     border: 2px solid red;
     text-align: center;
-    height: 500px;
+    height: 300px;
     margin: 0 auto;
-    justify-content: center;
+    /* justify-content: center; */
 }
 
 header div {
